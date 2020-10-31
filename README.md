@@ -10,4 +10,4 @@ Work In Progress.
 4. Navigate to the current project directory and in terminal, run : 
 `./ngrok http 80`
 
-
+* Check ChromeDriver version with respect to Google Chrome Version. 
